@@ -114,16 +114,6 @@
       "privacy.file_unique_origin": true,
       "ui.key.menuAccessKeyFocuses": false
     },
-    "PromptForDownloadLocation": false,
-    "SanitizeOnShutdown": {
-      "Cache": true,
-      "Cookies": true,
-      "Downloads": true,
-      "FormData": true,
-      "History": true,
-      "OfflineApps": true,
-      "Sessions": true,
-      "SiteSettings": true
-    }
+    "PromptForDownloadLocation": false
   }
 }
